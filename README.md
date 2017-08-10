@@ -8,7 +8,7 @@ A list of random scripts that can be used for your test team.
 2. Install pip
 - From a terminal: `sudo python get-pip.py`
 3. Install requests
-- `sudo pip requests` 
+- `sudo pip install requests` 
 4. Ensure that you have an admin token for your Slack team. 
 - https://api.slack.com/custom-integrations/legacy-tokens
 5. Download the python script (.py) to your hard drive. 
