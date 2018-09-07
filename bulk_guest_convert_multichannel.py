@@ -3,6 +3,7 @@ import time
 import json
 
 # You will need to install the requests package for this script to function properly. 'pip install requests'
+# This will convert users to multi channel guests and put them into one channel only.
 # Note that there is little error logic in this script. If it fails, it may be because the email address is in correct or potentially other unforeseen errors. 
 
 ########################################################################
